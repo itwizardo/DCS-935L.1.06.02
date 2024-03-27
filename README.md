@@ -1,6 +1,6 @@
 DCS-935L.1.06.02 Firmware Extract
 
-This repository contains an extracted version of the DCS-935L.1.06.02 firmware, intended for educational purposes as part of a school project for Novi Hogeschool Amsterdam.
+This repository contains an extracted version of the DCS-935L.1.06.02 firmware, intended for educational purposes as part of a school project for Novi Hogeschool.
 
 Purpose:
 
@@ -20,4 +20,4 @@ While efforts have been made to ensure the accuracy and integrity of the content
 
 Acknowledgments:
 
-We would like to acknowledge the contributions of DCS-935L.1.06.02 firmware developers for their work in creating the original firmware. Additionally, we appreciate the support of Novi Hogeschool Amsterdam for providing an environment conducive to educational exploration and learning.
+We would like to acknowledge the contributions of DCS-935L.1.06.02 firmware developers for their work in creating the original firmware. Additionally, we appreciate the support of Novi Hogeschool for providing an environment conducive to educational exploration and learning.
